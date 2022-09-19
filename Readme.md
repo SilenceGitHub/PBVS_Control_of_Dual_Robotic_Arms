@@ -10,4 +10,4 @@ To run the examples, one need to open the **VREP_Scene.ttt** file in the related
 
 After the simulation is stopped, the related results will be displayed. One can also run the file **StopSim.m** to see the results if necessary.
 
-The data of the results obtained by the authors has been saved in the folder **Data**. One can also load the file **xxxx.mat**  in the folder and run the file **StopSim.m** to see the results.
+The data of the results obtained by the authors has been saved in the folder **Data**. One can also load the file **xxxx.mat** to the MATLAB workspace and run the file **StopSim.m** to see the results.
