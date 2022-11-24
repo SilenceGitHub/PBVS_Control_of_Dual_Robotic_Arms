@@ -1,6 +1,6 @@
 ### Requirements
 
-**Matlab2021a+** (Please make sure that the **Aerospace Toolbox** is installed in the Matlab)
+**Matlab2021a+** (Please make sure that the **Aerospace Toolbox** is installed in Matlab)
 
 **Simulink**
 
