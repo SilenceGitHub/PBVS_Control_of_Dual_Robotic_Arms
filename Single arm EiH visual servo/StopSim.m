@@ -1,6 +1,6 @@
 function StopSim()
 
-% global vrepInstance param kuka VCerebNet
+global vrepInstance param kuka VCerebNet
 % vrepInstance.Disconnect(vrepInstance);
 
 % % When loading existing data, please comment out the above two lines
